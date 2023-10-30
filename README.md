@@ -27,11 +27,11 @@
 ⛧ **[Memory Game](https://github.com/PabloSsolbal/Web-Projects/tree/main/memory)**: A simple memory game for kids with different categories.  
 ⛧ **[DrumKit](https://github.com/PabloSsolbal/Web-Projects/tree/main/drumKit)**: Web music pad with different instruments, sounds and effects.  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSsolbal&repo=Web-Projects)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSsolbal&repo=Web-Projects&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  
 
 ⛧ **[BookShell](https://github.com/PabloSsolbal/BookShell)**: My personal library manage system to track my books.  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSsolbal&repo=Bookshell)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSsolbal&repo=Bookshell&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <hr>  
   
 ![Pablo Solbal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloSsolbal&show_icons=true&theme=synthwave)
