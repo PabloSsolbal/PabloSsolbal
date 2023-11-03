@@ -1,6 +1,6 @@
 ## ⛧ Hi I'm [Pablo Solbal](https://pabloss.netlify.app) ⛧
 
-⛧ I'm currently working on **[MathToolPy](https://github.com/PabloSsolbal/MathToolPy)** my personal math package for Python  
+⛧ I'm currently working on **[MiniGameBox](https://github.com/PabloSsolbal/Web-Projects/tree/main/memory)** a PWA of games for kids  
 ⛧ I'm a begginer self taugh programmer  
 ⛧ Like to read and oil painting
 
@@ -16,7 +16,7 @@
 ### ⛧ I Want To Learn ⛧
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,react,mysql,rust" />
+    <img src="https://skillicons.dev/icons?i=fastapi,react,mysql,deno,rust" />
   </a>
 </p>
 <hr>
@@ -24,7 +24,7 @@
 ### ⛧ Some of my projects ⛧
 
 ⛧ **[K-ausaDex](https://github.com/PabloSsolbal/Web-Projects/tree/main/pokedex)**: A web pokedex project with a Gameboy style interface.  
-⛧ **[Memory Game](https://github.com/PabloSsolbal/Web-Projects/tree/main/memory)**: A simple memory game for kids with different categories.  
+⛧ **[MiniGameBox](https://github.com/PabloSsolbal/Web-Projects/tree/main/memory)**: A simple games PWA for kids with different games and categories.  
 ⛧ **[DrumKit](https://github.com/PabloSsolbal/Web-Projects/tree/main/drumKit)**: Web music pad with different instruments, sounds and effects.  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSsolbal&repo=Web-Projects&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  
